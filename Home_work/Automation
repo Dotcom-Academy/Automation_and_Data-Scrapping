@@ -1,0 +1,19 @@
+# Create a python bot which will inform the user about the number of notifications in the user's LinkedIn or any account.
+  This bot will be taking the userID and Password of the user's LinkedIn account as input and log in to it.
+  Then It will print the current number of notifications in that profile.
+
+# Create a python bot which will take the user-handle of any Instagram profile as input
+  and store the bio as a txt file with name in format->  'user-handle.txt'.
+  
+# Create a python bot which logs in to your fb or any other account, reads top 5 notifications and output them over the screen.
+
+# create a "Automatic wifi-connector bot":
+          netsh wlan show profiles  (for saved network)
+          netsh wlan show networks  ( for currently available networks)
+          netsh wlan disconnect     ( disconnecting from current network)
+          netsh wlan connect name= " "    (connecting a new network)
+          
+          
+          
+# Series-Downloader-bot
+          https://themoviezflix.io/download-she-hulk-attorney-at-law-season-1-hindi-english-480p-720p-1080p/
