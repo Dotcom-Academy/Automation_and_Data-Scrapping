@@ -5,7 +5,9 @@ Web Automation, Device automation, data Scrapping and visualization
 ## Requirements
 <ul>
 <li><pre>pip install selenium</pre></li>
-<!--
-<li><pre>pip install numpy</pre></li>
--->
+
+<li><pre>pip install bs4</pre></li>
+<li><pre>pip install pandas</pre></li>
+<li><pre>pip install requests</pre></li>
+
 </ul>
