@@ -1,0 +1,14 @@
+#Create a dataset of the population of Asian countries from website 
+worldometers.info/population/countries-in-asia-by-population/
+
+
+#Create a python bot which will take the user-handle of any 
+Instagram profile as input and store the bio as a txt file 
+with name in format-> 'user-handle.txt'.
+
+
+
+#scrap flipkart product description, all_l=Lnks, price To_csv
+
+
+#scrap job description [ take the location and job-name as input ]
