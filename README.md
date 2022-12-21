@@ -10,5 +10,6 @@ Web Automation, Device automation, data Scrapping and visualization
 <li><pre>pip install pandas</pre></li>
 <li><pre>pip install requests</pre></li>
 <li><pre>pip install urllib</pre></li>
+<li><pre>pip install seaborn</pre></li>
 
 </ul>
